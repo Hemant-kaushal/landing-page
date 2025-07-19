@@ -6,14 +6,14 @@ Project 1: Landing Page
 
 
 
-# Overview
+## Overview
 
 This is my first project of the Summer Internship 2024 in the domain of Front End Development.
 The goal of this project is to create a responsive and modern landing page using HTML and CSS.
 
 
 
-# Features
+## Features
 
 Navigation Bar with logo, links, and sign-up button
 Hero Section with main heading and promotional text
@@ -23,7 +23,8 @@ Footer Section
 
 
 
-# Technologies Used
+## Technologies Used
 HTML5 – For structuring the webpage
+
 
 CSS3 – For layout and styling
